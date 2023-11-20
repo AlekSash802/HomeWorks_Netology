@@ -2,7 +2,8 @@
 
 В папке лежит некоторое количество файлов. Считайте, что их количество и 
 имена вам заранее известны, пример для выполнения домашней работы 
-можно взять [тут](https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files/sorted) 
+можно взять [тут:](https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files/sorted)
+
 https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files/sorted
 
 ## Необходимо объединить их в один по следующим правилам:
@@ -15,12 +16,12 @@ https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files/s
 ### Пример Даны файлы: 
 
 1.txt ==>
-==>
+
 Строка номер 1 файла номер 1
 Строка номер 2 файла номер 1
 
 2.txt ==>
-==>
+
 Строка номер 1 файла номер 2
 
 ## Итоговый файл:
