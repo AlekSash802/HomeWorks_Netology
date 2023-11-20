@@ -118,7 +118,7 @@ https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files/s
 Строка номер 1 файла номер 2
 
 ### Итоговый файл:
-
+```
 2.txt
 1
 Строка номер 1 файла номер 2
@@ -126,3 +126,4 @@ https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files/s
 2
 Строка номер 1 файла номер 1
 Строка номер 2 файла номер 1
+```
